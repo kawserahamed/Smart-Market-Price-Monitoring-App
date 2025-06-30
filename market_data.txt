@@ -1,0 +1,4 @@
+KarwanBazar NewMarket MohammadpurBazar 
+Rice 60.50 61.00 59.00
+Oil 180.00 185.50 183.00
+Onion 42.00 43.50 40.00

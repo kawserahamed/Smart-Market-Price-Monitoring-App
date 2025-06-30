@@ -1,0 +1,7 @@
+Date: 2025-06-30
+Bazar: KarwanBazar
+Product: Rice
+Seller: Nazmul
+Phone: 123456
+Complaint: very bad boy
+
